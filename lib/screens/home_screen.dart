@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
     debugPrint('build home');
     return Scaffold(
       appBar: AppBar(title: const Text('Ticket Custom Clipper')),
-      // backgroundColor: Colors.blueGrey.shade200,
+      backgroundColor: Colors.blueGrey.shade200,
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20),
         child: ListView(

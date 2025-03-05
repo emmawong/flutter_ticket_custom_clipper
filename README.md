@@ -6,7 +6,7 @@ This project helps Flutter developers understand and implement performance-optim
 
 For standard shapes like circles or rounded rectangles, use built-in solutions such as `BoxShadow` or `PhysicalModel` instead of these custom implementations.
 
-
+![Home Screen screenshot](/docs/screenshots/home_screen.png) 
 ## 🛠️ Solutions Overview
 
 | Preview | Solution                           | Description |
